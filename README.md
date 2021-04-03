@@ -1,5 +1,5 @@
 # mekan-32
-Mekan32 projesi MEAN yığını kullanarak geliştireceğimiz bir projedir. Uygulama, Isparta bazlı çalışacak olup, kullanıcının konumuna belirlenen uzaklıktaki restorant, kafe vb. yerleri listeleyecek.
+Mekan32 projesi MEAN yığını kullanarak geliştirilen bir projedir. Uygulama, Isparta bazlı çalışacak olup, kullanıcının konumuna belirlenen uzaklıktaki restoran, kafe vb. yerleri listeleyecek.
 
 Kullanılan Teknolojiler:
 Orta katman: ExpressJS
